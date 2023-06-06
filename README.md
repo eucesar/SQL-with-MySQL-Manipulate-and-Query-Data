@@ -3,7 +3,7 @@
   <img align="center" alt="mysql" height="45" width="70" src="./mysql.png">
 </p>
 
-> 🌱👨‍💻 - I created variables and control flow, I understood Conditionals and loops, I got to know the main types of VB.NET, I started to build a desktop program. I created this project using the Alura course that taught me all the VB.NET syntex.
+> 🌱👨‍💻 - Knows how to install and access the MySQL database, performed queries with SELECT and filter with WHERE, added data to the database with INSERT, updated and deleted data with UPDATE and DELETE, structured your tables with CREATE TABLE and ALTER TABLE.
 
 ## Download
 
